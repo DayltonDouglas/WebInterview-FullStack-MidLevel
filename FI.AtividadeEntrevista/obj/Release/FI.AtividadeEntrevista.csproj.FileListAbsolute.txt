@@ -1,0 +1,6 @@
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Release\FI.AtividadeEntrevista.dll
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Release\FI.AtividadeEntrevista.pdb
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Release\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Release\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Release\FI.AtividadeEntrevista.dll
+C:\Projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Release\FI.AtividadeEntrevista.pdb
